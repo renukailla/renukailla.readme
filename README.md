@@ -87,6 +87,4 @@ I believe in the power of **clean code** and love simplifying complex problems i
 
 ---
 
-This `README.md` will give your profile a sleek, professional touch while showcasing your Java Full-Stack expertise. You can further adjust the content based on your actual tech stack or more personal details.
 
-Let me know if you want to change anything, or if you'd like to add more specific details! 😊
